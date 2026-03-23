@@ -2,5 +2,6 @@
 Task 3: Multimodal ML – Housing Price Prediction Using Images + Tabular  Data
 Objective: Predict housing prices using both structured data and house images.
 Dataset: Housing Sales Dataset + Custom Image Dataset (from kaggle)
+Dataset link: https://drive.google.com/drive/folders/1eCakaIsWV8RkEh90ix_SeDjMrjpOAjzh?usp=drive_link
 Methodology / Approach: Multimodal machine learning, Convolutional Neural Networks (CNNs), Feature fusion (image + tabular)
 Key results or observations: Evaluate performance using MAE and RMSE
